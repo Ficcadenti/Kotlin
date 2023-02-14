@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.kotlin.es11liste'
+    namespace 'com.example.kotlin.es12set_map'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.kotlin.es11liste"
+        applicationId "com.example.kotlin.es12set_map"
         minSdk 24
         targetSdk 33
         versionCode 1
