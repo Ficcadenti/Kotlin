@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DOBCalc</string>
+    <string name="strCalculate">CALCULATE YOUR</string>
 </resources>
