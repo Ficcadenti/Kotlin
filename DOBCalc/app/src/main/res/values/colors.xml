@@ -8,5 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="textBlue">#2a9d8f</color>
-    <color name="bgColor">#f4a261</color>
+    <color name="bgColor">#C3F461</color>
+    <color name="bgAge">#bde0fe</color>
+    <color name="ligthGray">#b7b7a4</color>
 </resources>
